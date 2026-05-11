@@ -2,3 +2,6 @@ old
 data
 solutions
 exercises
+*.py
+*.md
+.agents/
