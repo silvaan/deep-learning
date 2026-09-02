@@ -1,7 +1,10 @@
-old
-data
-solutions
-exercises
+/old/
+/data/
+/solutions/
+/exercises/
+/.agents/
 *.py
+plan*.txt
 *.md
-.agents/
+!README.md
+!atividades/**/*.md
