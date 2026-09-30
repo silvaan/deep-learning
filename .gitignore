@@ -8,3 +8,6 @@ plan*.txt
 *.md
 !README.md
 !atividades/**/*.md
+/atividades/*/data/ground_truth.csv*
+/atividades/*/submissoes/
+*:Zone.Identifier
