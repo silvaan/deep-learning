@@ -11,3 +11,6 @@ plan*.txt
 /atividades/*/data/ground_truth.csv*
 /atividades/*/submissoes/
 *:Zone.Identifier
+/runs/
+/apps/*/data/
+/apps/**/*.pt
